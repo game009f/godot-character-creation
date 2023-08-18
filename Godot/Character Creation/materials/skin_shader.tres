@@ -241,7 +241,6 @@ void fragment() {
 
 }
 "
-graph_offset = Vector2(-764.365, 1241.2)
 flags/sss_mode_skin = true
 nodes/fragment/0/position = Vector2(1320, 480)
 nodes/fragment/3/node = SubResource("VisualShaderNodeFloatParameter_st5hh")
